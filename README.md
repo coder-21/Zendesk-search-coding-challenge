@@ -2,6 +2,7 @@
 
 
 **Execution:**
+Run the project using maven or -
 Run Main.java using an IDE.
 
 
