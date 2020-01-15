@@ -2,8 +2,10 @@
 
 
 **Execution:**
-Run the project using maven or -
-Run Main.java using an IDE.
+- Run Main.java using an IDE.
+- To execute using maven, run the following
+  mvn package
+ java -jar target/search-1.0-SNAPSHOT.jar 
 
 
 **Requirements:**
